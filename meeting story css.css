@@ -1,0 +1,34 @@
+h1 {
+    color: #black;
+    font-family: 'Playfair Display', serif;
+    text-align: left;
+    font-size: 60px;
+  }
+
+author {font-size: 16px;
+        font-weight: bold;
+  }
+
+date {font-size: 15px;
+      font-weight: normal;
+  }
+
+figcaption {font-size: 15px;
+            color: grey;
+  }
+
+body {
+      font-size: 20px;
+      color: #black;
+      font-family: 'Playfair Display', serif;
+      margin-left: 2cm;
+      margin-right: 16cm;
+      text-align: justify;
+  }
+
+p {
+  margin-top: auto;
+  margin-bottom:28px;
+  line-height: 28px;
+
+}
